@@ -1,9 +1,12 @@
-# pinkcandyzhou
-## zhouzhouwebworld.online
+# PINKCANDYZHOU
 ------
-- 你好，我是粉糖粒子周周！
-- 我对web全栈开发感兴趣，同时会一些简单的电子绘画，会弹奏钢琴和基础的乐理知识。
-- 我正在学习 C Python PHP HTML+CSS+JS MySQL 等编程语言和计算机知识
-- 你可以通过QQ1479499289、z1479499289@gmail.com或者访问粉糖粒子网站联系我
+- 你好！我是粉糖粒子周周！
+- 计算机技术初学者，业余毛绒画师。
+- 我正在学习各类编程语言和计算机知识
+- 可以通过以下方式找到我。
+  - QQ1479499289
+  - pinkcandyzhou@qq.com
+  - z1479499289@gmail.com
+  - https://pinkcandy.top
+  - https://zhouzhouwebworld.online
 ------
-- 2024.2
