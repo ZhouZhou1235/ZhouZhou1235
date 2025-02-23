@@ -1,14 +1,14 @@
 # 粉糖粒子周周
 ## PINKCANDYZHOU
-![54daf92e8bce8d798ebaae9852701441](https://github.com/ZhouZhou1235/ZhouZhou1235/assets/151345772/2b667203-4b40-4632-b510-54f3506d33ba)
+![1739012371739](https://github.com/user-attachments/assets/94ea5482-7019-4699-b238-c0ade1d418b6)
+
 ------
-- 嗷！我是粉糖粒子周周！
-- 于2023年开始的计算机技术初学者，业余毛绒画师。
-- 我正在学习各类编程语言和计算机知识
-- 可以通过以下方式找到我。
-  - QQ1479499289
+- 我是粉糖粒子周周
+- 我做过简单全栈开发和游戏开发
+- 我正在大学计算机系学习......
+
+联系方式
+  - QQ 1479499289
   - twitter @zhouzhou1235
-  - pinkcandyzhou@qq.com
-  - z1479499289@gmail.com
   - https://pinkcandy.top
 ------
