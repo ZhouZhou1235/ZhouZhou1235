@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/cover.png" alt="zhouzhou" width="75%" />
+    <img src="./assets/cover.png" alt="zhouzhou" width="64%" />
 </div>
 
 <div style="color: lightskyblue;">
