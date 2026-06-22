@@ -8,5 +8,5 @@
         我叫周周，小蓝狗是设定。<br />
         爱好编程和绘画，作品大多是毛绒绒。幸会！<br />
     </p>
-    <img src="https://skillicons.dev/icons?i=python,java,php,js,ts,mysql,linux,godot&perline=9" alt="skillicons" />
+    <img src="https://skillicons.dev/icons?i=python,java,php,js,ts,linux,mysql,sqlite,godot&perline=9" alt="skillicons" />
 </div>
